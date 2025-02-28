@@ -6,9 +6,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "dist",
-    "rootDir": ".",
-    "baseUrl": "."
+    "outDir": "dist"
   },
   "include": ["api/**/*"],
   "exclude": ["node_modules"]
